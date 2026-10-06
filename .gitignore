@@ -1,0 +1,16 @@
+# Build output (Projucer exporters and CMake)
+Builds/
+build/
+cmake-build-*/
+out/
+
+# IDE / OS files
+.vs/
+.vscode/
+.idea/
+*.user
+.DS_Store
+Thumbs.db
+
+# Stray headless-browser crash data
+.edge-headless/
